@@ -2,17 +2,17 @@
 
 <a href="https://www.linkedin.com/in/omchauhan9203/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[cite_start]I am a passionate Software Engineering graduate student at Arizona State University [cite: 4, 5] with hands-on experience in full-stack development, cloud computing, and machine learning. I enjoy building robust and scalable applications from the ground up.
+I am a passionate Software Engineering graduate student at Arizona State University with hands-on experience in full-stack development, cloud computing, and machine learning. I enjoy building robust and scalable applications from the ground up.
 
 ---
 
 ### 👨‍💻 About Me
 
-- [cite_start]🎓 I'm currently pursuing a **Master of Science in Software Engineering** at Arizona State University, expecting to graduate in May 2026[cite: 4, 5, 10].
-- [cite_start]🔭 I have practical experience developing full-stack applications, such as an HR automation system where I reduced manual data entry by 30% [cite: 16] [cite_start]and an e-commerce platform for a local restaurant[cite: 37].
-- [cite_start]☁️ I have experience in deploying scalable cloud solutions using AWS (EC2, Lambda, S3, RDS), improving system performance and reliability[cite: 18].
-- [cite_start]🤖 I built and trained a real-time fire detection system using YOLOv5 and OpenCV, achieving 95% accuracy[cite: 23].
-- [cite_start]💡 I even designed and built a new statically typed programming language called **NOAH** from scratch, complete with a custom compiler[cite: 32, 33, 34].
+- 🎓 I'm currently pursuing a **Master of Science in Software Engineering** at Arizona State University, expecting to graduate in May 2026.
+- 🔭 I have practical experience developing full-stack applications, such as an HR automation system where I reduced manual data entry by 30% and an e-commerce platform for a local restaurant.
+- ☁️ I have experience in deploying scalable cloud solutions using AWS (EC2, Lambda, S3, RDS), improving system performance and reliability.
+- 🤖 I built and trained a real-time fire detection system using YOLOv5 and OpenCV, achieving 95% accuracy.
+- 💡 I even designed and built a new statically typed programming language called **NOAH** from scratch, complete with a custom compiler.
 
 ---
 
