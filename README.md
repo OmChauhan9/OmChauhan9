@@ -62,9 +62,7 @@ I am a passionate Software Engineering graduate student at Arizona State Univers
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmChauhan9&show_icons=true&theme=radical" alt="Om Chauhan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmChauhan9&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omchauhan9&show_icons=true&locale=en&layout=compact" alt="omchauhan9" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omchauhan9&show_icons=true&locale=en" alt="omchauhan9" /></p>
 
 ---
