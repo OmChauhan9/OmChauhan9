@@ -64,8 +64,5 @@ I am a passionate Software Engineering graduate student at Arizona State Univers
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omchauhan9&show_icons=true&locale=en&layout=compact" alt="omchauhan9" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omchauhan9&show_icons=true&locale=en" alt="omchauhan9" /></p>
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omchauhan9&theme=default" />
-</p>
 
 ---
