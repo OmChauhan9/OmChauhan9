@@ -155,7 +155,8 @@ MySQL · PostgreSQL · MongoDB · SQLite · Oracle
   />
 </p>
 
-
+<!-- Uncomment these after the files are generated correctly -->
+<!--
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/OmChauhan9/OmChauhan9/main/profile-3d-contrib/profile-night-rainbow.svg"
@@ -171,6 +172,7 @@ MySQL · PostgreSQL · MongoDB · SQLite · Oracle
     width="600"
   />
 </p>
+-->
 
 <p align="center">
   Made with ❤️ by <strong>Om Chauhan</strong> · Always learning, always building
