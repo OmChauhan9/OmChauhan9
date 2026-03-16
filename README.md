@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://github.com/OmChauhan9.png" width="140" alt="Om Chauhan Avatar" />
 </p>
+
 <h1 align="center">Hi, I'm Om Chauhan 👋</h1>
+
 <p align="center">
   <a href="https://github.com/OmChauhan9">
     <img
@@ -10,104 +12,128 @@
     />
   </a>
 </p>
+
 <p align="center">
-  📍 Tempe, Arizona · 🎓 MS Software Engineering @ Arizona State University (Expected May 2026)
+  📍 Tempe, Arizona · 🎓 M.S. in Software Engineering, Arizona State University (Expected May 2026)
   <br />
   🔍 <strong>Actively seeking:</strong> Full-Stack · Backend · Cloud · DevOps Engineer roles
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/om-chauhan-9a567623b">
-    <img src="https://img.shields.io/badge/LinkedIn-om-chauhan-9a567623b-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Om%20Chauhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:omrajesh9203@gmail.com">
-    <img src="https://img.shields.io/badge/Email-omrajesh9203%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-omrajesh9203%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://omchauhan.dev">
-    <img src="https://img.shields.io/badge/Portfolio-Website-4B8BBE?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Website-4B8BBE?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="https://github.com/OmChauhan9/OmChauhan9/raw/main/Om_Chauhan_Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-PDF-43A047?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Resume-PDF-43A047?style=for-the-badge" alt="Resume" />
   </a>
 </p>
+
 ---
-## 🛠 Skills & Tech Stack
-**Frontend & UI**  
-React · Redux · Material UI · TypeScript · TailwindCSS
 
-**Backend & APIs**  
-Spring Boot · Spring Security · Node.js · Hibernate · RESTful APIs
+## 🛠 Tech Stack
 
-**DevOps & Cloud**  
-AWS (EC2, Lambda, S3, RDS, IoT Greengrass) · GCP (Cloud Run, Cloud SQL) · Docker · Kubernetes · CI/CD · Jenkins · GitHub Actions
+### Frontend
+React · Redux · TypeScript · Tailwind CSS · Material UI
 
-**Databases**  
+### Backend
+Java · Spring Boot · Spring Security · Node.js · Hibernate · REST APIs
+
+### Cloud & DevOps
+AWS (EC2, Lambda, S3, RDS, IoT Greengrass) · GCP (Cloud Run, Cloud SQL) · Docker · Kubernetes · Jenkins · GitHub Actions · CI/CD
+
+### Databases
 MySQL · PostgreSQL · MongoDB · SQLite · Oracle
+
 ---
+
 ## 🎓 Education
-| School                        | Degree                          | Status                  |
-|-------------------------------|---------------------------------|-------------------------|
-| Arizona State University      | MS, Software Engineering        | In progress · Exp. May 2026 |
-| Gujarat Technological University | BE, Computer Engineering     | Completed · May 2024    |
----
-## 💼 Work Experience
-| Period          | Organization          | Role                     |
-|-----------------|-----------------------|--------------------------|
-| Jan 2024 – Jun 2024 | Axisray, Ahmedabad   | Software Engineer Intern |
-| Jun 2023 – Aug 2023 | Axisray, Ahmedabad   | Software Engineer Intern |
 
-### 📝 Highlights
-**Axisray (Jan–Jun 2024)**  
-- ⚡ **HR automation platform:** Reduced manual data entry by **30%** for a 50+ person team  
-- 📈 **Alexa voice interface:** Cut HR query time by **50%**  
-- 🛠️ **AWS infrastructure:** Achieved **99.9% uptime** and **25%** reliability gain (EC2 + S3 + RDS)  
-- 🚀 **Docker + CI/CD:** 50% faster feature shipment and near-zero deployment errors  
+| Institution | Degree | Status |
+|---|---|---|
+| Arizona State University | M.S. in Software Engineering | In Progress · Expected May 2026 |
+| Gujarat Technological University | B.E. in Computer Engineering | Completed · May 2024 |
 
-**Axisray (Jun–Aug 2023)**  
-- 🔥 **YOLOv5 fire detection:** **95% accuracy** and **40%** fewer false alarms  
-- ⏱️ **Emergency response:** Reduced time by **60%** through cross-team integration  
-- 📍 **Detection range:** Increased effective range by **15%** across environments
 ---
+
+## 💼 Experience
+
+| Period | Organization | Role |
+|---|---|---|
+| Jan 2024 – Jun 2024 | Axisray, Ahmedabad | Software Engineer Intern |
+| Jun 2023 – Aug 2023 | Axisray, Ahmedabad | Software Engineer Intern |
+
+### Highlights
+
+#### Axisray (Jan 2024 – Jun 2024)
+- Built an **HR automation platform** that reduced manual data entry by **30%** for a 50+ person team
+- Developed an **Alexa-based voice interface** that reduced HR query time by **50%**
+- Improved system reliability by **25%** and achieved **99.9% uptime** using **AWS (EC2, S3, RDS)**
+- Streamlined releases with **Docker + CI/CD**, enabling **50% faster feature delivery** and near-zero deployment errors
+
+#### Axisray (Jun 2023 – Aug 2023)
+- Developed a **YOLOv5 fire detection system** with **95% accuracy** and **40% fewer false alarms**
+- Reduced emergency response time by **60%** through cross-system integration
+- Increased detection range by **15%** across different environments
+
+---
+
 ## 🚀 Projects
-### StratusVault — Secure Cloud File Share
-**Stack:** Java · Spring Boot · Firebase Auth · GCP (Cloud Run, Cloud SQL, GCS)  
-- Serverless, highly-available architecture with fine-grained ACLs  
-- Owner-controlled read-only sharing with zero-trust security  
-- 99.99% uptime in production
+
+### StratusVault — Secure Cloud File Sharing
+**Tech Stack:** Java · Spring Boot · Firebase Auth · GCP (Cloud Run, Cloud SQL, GCS)
+- Designed a serverless, highly available cloud file-sharing platform
+- Implemented fine-grained access control and owner-managed read-only sharing
+- Applied zero-trust security principles across the platform
 
 ### Hybrid Cloud & Edge AI System
-**Stack:** Python · PyTorch · AWS (EC2, Lambda, IoT Greengrass) · Docker · MQTT  
-- Custom autoscaling controller for 15-instance fleet + edge pipeline  
-- <1.2s inference latency with 100% accuracy (MTCNN at edge)  
-- Real-time offloading before cloud sync
+**Tech Stack:** Python · PyTorch · AWS (EC2, Lambda, IoT Greengrass) · Docker · MQTT
+- Built a custom autoscaling controller for a **15-instance** hybrid fleet
+- Achieved **<1.2s inference latency** with edge-based inference
+- Enabled real-time workload offloading before cloud synchronization
 
-### Socket-chat — Production Real-Time Chat
-**Stack:** Node.js · Socket.IO · SQLite · Cluster Adapter  
-- Horizontal scaling across CPU cores  
-- Exactly-once delivery + connection state recovery  
-- Database persistence with zero message loss
+### Socket-Chat — Real-Time Chat System
+**Tech Stack:** Node.js · Socket.IO · SQLite · Cluster Adapter
+- Built a production-style real-time chat system with horizontal scaling
+- Implemented exactly-once delivery and connection state recovery
+- Added persistent message storage with reliable delivery guarantees
 
 ### NOAH — Statically Typed Programming Language
-**Stack:** Java · ANTLR4 · LLVM · CMake  
-- Full compiler pipeline: lexer → parser → semantic analysis → codegen  
-- Built from scratch with focus on performance and cross-platform output
+**Tech Stack:** Java · ANTLR4 · LLVM · CMake
+- Built a complete compiler pipeline from lexer to code generation
+- Focused on performance, type safety, and cross-platform compilation
+
 ---
+
 ## 🏆 Impact Snapshot
-| ⚡ Performance                  | 📈 Scale                     | 🔧 Quality & Ownership                  |
-|--------------------------------|------------------------------|-----------------------------------------|
-| 50% faster HR queries          | 50+ person team automation   | 99.9% uptime AWS stack                  |
-| 40% fewer false alarms         | 15-instance edge fleet       | Docker + CI/CD with zero deployment errors |
-| <1.2s edge inference latency   | Real-time systems            | 95% accuracy detection models           |
+
+| Performance | Scale | Quality & Ownership |
+|---|---|---|
+| 50% faster HR queries | Automated workflows for a 50+ person team | 99.9% uptime on AWS |
+| 40% fewer false alarms | 15-instance edge AI fleet | Near-zero deployment errors |
+| <1.2s inference latency | Real-time distributed systems | 95% model accuracy |
+
 ---
-## 🌐 Let’s Connect
-| Type      | Link                                              |
-|-----------|---------------------------------------------------|
-| GitHub    | https://github.com/OmChauhan9                     |
-| LinkedIn  | https://www.linkedin.com/in/om-chauhan-9a567623b  |
-| Email     | omrajesh9203@gmail.com                            |
-| Portfolio | https://omchauhan.dev                             |
-| Resume    | [Download PDF](https://github.com/OmChauhan9/OmChauhan9/raw/main/Om_Chauhan_Resume.pdf) |
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/OmChauhan9">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/om-chauhan-9a567623b">LinkedIn</a> ·
+  <a href="mailto:omrajesh9203@gmail.com">Email</a> ·
+  <a href="https://omchauhan.dev">Portfolio</a> ·
+  <a href="https://github.com/OmChauhan9/OmChauhan9/raw/main/Om_Chauhan_Resume.pdf">Resume</a>
+</p>
+
 ---
-## 📊 GitHub Activity Map
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=OmChauhan9&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
@@ -120,20 +146,25 @@ MySQL · PostgreSQL · MongoDB · SQLite · Oracle
     height="165"
   />
 </p>
+
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=OmChauhan9&theme=dark"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=OmChauhan9&theme=github-compact"
     alt="GitHub Activity Graph"
     width="95%"
   />
 </p>
+
+<!-- Uncomment these after the files are generated correctly -->
+<!--
 <p align="center">
   <img
-    src="https://github.com/OmChauhan9/OmChauhan9/raw/main/profile-3d-contrib/profile-gitblock.svg"
+    src="https://raw.githubusercontent.com/OmChauhan9/OmChauhan9/main/profile-3d-contrib/profile-night-rainbow.svg"
     alt="3D Contribution Graph"
     width="600"
   />
 </p>
+
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/OmChauhan9/OmChauhan9/output/github-contribution-grid-snake-dark.svg"
@@ -141,6 +172,8 @@ MySQL · PostgreSQL · MongoDB · SQLite · Oracle
     width="600"
   />
 </p>
+-->
+
 <p align="center">
   Made with ❤️ by <strong>Om Chauhan</strong> · Always learning, always building
 </p>
