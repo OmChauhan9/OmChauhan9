@@ -107,7 +107,17 @@ B.E. Computer Engineering · May 2024
 
 ## Links
 
-- Portfolio: https://omchauhan.dev
-- LinkedIn: https://www.linkedin.com/in/om-chauhan-9a567623b
-- Resume: https://github.com/OmChauhan9/OmChauhan9/raw/main/Om_Chauhan_Resume.pdf
-- Email: omrajesh9203@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/om-chauhan-9a567623b">
+    <img src="https://img.shields.io/badge/LinkedIn-Om%20Chauhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:omrajesh9203@gmail.com">
+    <img src="https://img.shields.io/badge/Email-omrajesh9203%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://omchauhan.dev">
+    <img src="https://img.shields.io/badge/Portfolio-Website-4B8BBE?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/OmChauhan9/OmChauhan9/raw/main/Om_Chauhan_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-PDF-43A047?style=for-the-badge" />
+  </a>
+</p>
