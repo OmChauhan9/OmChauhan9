@@ -127,7 +127,7 @@ B.E. Computer Engineering · May 2024
   <a href="mailto:omrajesh9203@gmail.com">
     <img src="https://img.shields.io/badge/Email-omrajesh9203%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://omchauhan.dev">
+  <a href="https://omchauhan9.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Website-4B8BBE?style=for-the-badge" />
   </a>
   <a href="https://github.com/OmChauhan9/OmChauhan9/raw/main/Om_Chauhan_Resume.pdf">
